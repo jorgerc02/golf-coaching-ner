@@ -1,0 +1,11 @@
+{
+  "entities": [
+    {"label": "FAULT", "description": "An explicitly stated swing or shot fault."},
+    {"label": "SWING_PHASE", "description": "A phase or position within the golf swing."},
+    {"label": "BALL_FLIGHT", "description": "A description of ball-flight behaviour."},
+    {"label": "CONTACT_OUTCOME", "description": "An impact or strike outcome."},
+    {"label": "DRILL", "description": "A practice drill or exercise."},
+    {"label": "TECHNICAL_CONCEPT", "description": "A technical variable or golf-mechanics concept."}
+  ]
+}
+

@@ -1,0 +1,49 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.tiktok_token.json
+
+# Research data and annotations
+data/
+datasets/
+splits/
+transcripts/
+annotations/
+labelstudio/
+sketchengine/
+*.jsonl
+*.bio
+*.spacy
+*.xlsx
+*.xls
+*.csv
+
+# Model outputs and caches
+models/
+outputs/
+results/
+checkpoints/
+runs/
+*.log
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
